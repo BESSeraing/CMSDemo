@@ -18,14 +18,9 @@ switch ($action){
 
 }
 
-//Afficher une liste de rea
-//1. Récupérer les réas
-//
-//$form = getForm();
 
 
-//$dynamicContent = generateHtmlTable($reas);
-//
+//ouputPage('');
 ouputPage($dynamicContent);
 
 
